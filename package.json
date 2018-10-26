@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jenkins": "^0.22.1",
+    "prompt": "^1.0.0"
+  }
+}
