@@ -8,7 +8,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "node build.js"
+      "pre-push": "node interval.js"
     }
   }
 }
